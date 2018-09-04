@@ -2,7 +2,6 @@ body {
   margin: 0;
 }
 
-
 /* On devices wider than 660px */
 @media(min-width: 660px) {
 }
